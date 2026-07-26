@@ -4,6 +4,7 @@
     "triohelper": "1.8",
     "kaldsanalyse": "1.4.1",
     "agentlog": "1.12.4",
-    "interaction": "1.35"
+    "interaction": "1.35",
+    "anonymizer": "1.2.0"
   }
 }
