@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-28",
   "tools": {
     "triohelper": "1.8",
     "kaldsanalyse": "1.4.1",
     "agentlog": "1.12.4",
-    "interaction": "1.37",
+    "interaction": "1.38",
     "anonymizer": "1.2.0"
   }
 }
