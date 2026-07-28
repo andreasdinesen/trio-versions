@@ -1,11 +1,11 @@
 {
   "updated": "2026-07-28",
   "tools": {
-    "triohelper": "1.13",
+    "triohelper": "1.14",
     "kaldsanalyse": "1.4.2",
-    "agentlog": "1.12.6",
+    "agentlog": "1.13.0",
     "interaction": "1.40",
-    "tvp": "1.1.1",
+    "tvp": "1.2.0",
     "anonymizer": "1.4.0"
   }
 }
