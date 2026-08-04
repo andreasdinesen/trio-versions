@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "tools": {
-    "triohelper": "1.33",
+    "triohelper": "1.34",
     "kaldsanalyse": "1.4.3",
     "agentlog": "1.13.2",
     "interaction": "1.43",
