@@ -1,15 +1,15 @@
 {
   "updated": "2026-08-05",
   "tools": {
-    "triohelper": "1.34",
-    "kaldsanalyse": "1.4.3",
-    "agentlog": "1.13.2",
-    "interaction": "1.43",
-    "agentqp": "1.2.2",
-    "agentxp": "1.0.1",
-    "tvp": "1.3.1",
-    "aukonverter": "2.1.0",
-    "anonymizer": "1.12.2",
+    "triohelper": "1.35",
+    "kaldsanalyse": "1.5.0",
+    "agentlog": "1.14.0",
+    "interaction": "1.44",
+    "agentqp": "1.3.0",
+    "agentxp": "1.1.0",
+    "tvp": "1.4.0",
+    "aukonverter": "2.2.0",
+    "anonymizer": "1.12.3",
     "wallboard": "1.15.0"
   }
 }
