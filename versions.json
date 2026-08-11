@@ -3,11 +3,11 @@
   "tools": {
     "triohelper": "1.39",
     "kaldsanalyse": "1.6.1",
-    "agentlog": "1.16.2",
+    "agentlog": "1.16.3",
     "interaction": "1.51",
-    "agentqp": "1.4.0",
+    "agentqp": "1.5.0",
     "agentxp": "1.2.0",
-    "tvp": "1.5.0",
+    "tvp": "1.5.1",
     "aukonverter": "2.3.0",
     "anonymizer": "1.13.0",
     "wallboard": "1.15.0"
