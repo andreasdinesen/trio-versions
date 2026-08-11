@@ -1,10 +1,10 @@
 {
   "updated": "2026-08-11",
   "tools": {
-    "triohelper": "1.38",
+    "triohelper": "1.39",
     "kaldsanalyse": "1.6.1",
     "agentlog": "1.16.2",
-    "interaction": "1.50",
+    "interaction": "1.51",
     "agentqp": "1.4.0",
     "agentxp": "1.2.0",
     "tvp": "1.5.0",
