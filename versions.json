@@ -1,7 +1,7 @@
 {
   "updated": "2026-08-31",
   "tools": {
-    "triohelper": "1.48",
+    "triohelper": "1.49",
     "kaldsanalyse": "1.6.1",
     "agentlog": "1.17.1",
     "interaction": "1.54",
@@ -9,7 +9,7 @@
     "agentxp": "1.2.0",
     "tvp": "1.5.1",
     "aukonverter": "2.4.0",
-    "licenses": "1.0.1",
+    "licenses": "1.1.0",
     "anonymizer": "1.13.0",
     "wallboard": "1.15.0"
   }
