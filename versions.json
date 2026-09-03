@@ -1,12 +1,13 @@
 {
   "updated": "2026-09-03",
   "tools": {
-    "triohelper": "1.49",
+    "triohelper": "1.50",
     "kaldsanalyse": "1.6.1",
     "agentlog": "1.17.1",
     "interaction": "1.54",
     "agentqp": "1.5.0",
     "agentxp": "1.2.0",
+    "agentap": "1.0.0",
     "tvp": "1.5.1",
     "aukonverter": "2.4.0",
     "licenses": "1.6.0",
